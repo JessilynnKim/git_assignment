@@ -1,4 +1,4 @@
-# Git Assignment - <Your GitHub Username>
+# Git Assignment - JessilynnKim
 a. What is an issue?
 
 A communication tool on decisions, ideas and problem for a specific project which is located on Github
